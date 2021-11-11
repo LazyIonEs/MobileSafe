@@ -21,9 +21,9 @@
     <color name="gray">#E5E5E5</color>
     <color name="light_gray">#30000000</color>
 
-    <color name="changeColor1">#FFB6C1</color>
-    <color name="changeColor2">#DC143C</color>
-    <color name="changeColor3">#FF00FF</color>
+    <color name="changeColor1">#FF4500</color>
+    <color name="changeColor2">#FF8C00</color>
+    <color name="changeColor3">#7FFF00</color>
     <color name="changeColor4">#4B0082</color>
     <color name="changeColor5">#00FA9A</color>
     <color name="changeColor6">#FFA500</color>
